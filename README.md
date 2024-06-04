@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Luke
-- 👀 I’m interested in Web Dev 
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m a product manager
 - 📫 How to reach me on Discord wnxyz
 
 <!---
